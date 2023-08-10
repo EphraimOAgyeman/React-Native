@@ -18,9 +18,9 @@ You will need to install nativewind and it's peer dependency tailwindcss.
 yard add nativewind
 yarn add --dev tailwindcss@3.3.2
 ```
-Run npx tailwindcss init to create a tailwind.config.js file
+Run `npx tailwindcss init` to create a `tailwind.config.js` file
 
-Add the paths to all of your component files in your tailwind.config.js file.
+Add the following in your `tailwind.config.js` file.
 ```
 // tailwind.config.js
 
