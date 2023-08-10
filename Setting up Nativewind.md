@@ -8,6 +8,11 @@ It a version of Tailwind css which is a powerful styling sheet
 Using it makes code easier and more beautiful
 
 # Set up
+create a file called `app.d.ts` in the project files and copy and paste the following
+```
+/// <reference types="nativewind/types" />
+```
+
 You will need to install nativewind and it's peer dependency tailwindcss.
 ```
 yard add nativewind
