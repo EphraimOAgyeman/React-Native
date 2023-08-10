@@ -21,9 +21,11 @@
 ---
 ### 3. Setup using EXPO GO
 
-a. Visit [`expo`](https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) and create a new project.
+a. Visit [`expo`](https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart),setup your account and create a new project.
+
 
 b. copy the command in the `create a new project` open and paste it into your command prompt
+> Please copy the code first, before you accidentally close it okay, you won't get it back unless you delete and recreate a new project 😆
 <img src="Images/CLI for project.png" align="center" size="100px"/>
 
 c. Once successful, in the command prompt, type
@@ -36,3 +38,5 @@ d. Open the terminal in VScode and type
 ```
 expo start
 ```
+Download the  `Expo Go` app on playstore or appStore, log in and you will find the project you created waiting for you there.
+> Scan the QR code in the VScode terminal to open the app on your physical device and stay happy 🎊
