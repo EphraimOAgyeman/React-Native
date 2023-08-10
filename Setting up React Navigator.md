@@ -57,7 +57,5 @@ Navigator as the name suggest is for all page navigations in the app and is very
 
    export default App;
    ```
-
-
-
-
+6. Create a folder called `screens`, in it create a file called `HomeScreen`
+7. Open it and type `rnfe` after installing the extension `ES7+React/...`
