@@ -13,6 +13,14 @@
 
 #### You can learn more with this [`link`]([https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) 
 
+---
 
-### 2. Setup using EXPO GO
+### 2. Download and install [`node.js`](https://nodejs.org/en)
 
+
+---
+### 3. Setup using EXPO GO
+
+a. Visit [`expo.dev`]([https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) and create a project
+
+b. 
