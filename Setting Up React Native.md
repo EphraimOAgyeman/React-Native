@@ -1,5 +1,5 @@
 ## Hi
-> Congratulations on getting to this point, which means you are interested in learning react native.
+> Congratulations 🎊 on getting to this point, which means you are interested in learning react native.
 
 ### 1. There are two paths to take in React Native
 > `CLI` stands for Command Line Interface ~ basically Command prompt stuff 😆
@@ -16,11 +16,11 @@
 ---
 
 ### 2. Download and install [`node.js`](https://nodejs.org/en)
-
+> Choose the LTS download for windows
 
 ---
 ### 3. Setup using EXPO GO
 
-a. Visit [`expo.dev`]([https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) and create a project
+Visit [`expo.dev`]([https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) 
 
-b. 
+
