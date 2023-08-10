@@ -21,6 +21,12 @@
 ---
 ### 3. Setup using EXPO GO
 
-Visit [`expo.dev`]([https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) 
+a. Visit [`expo`](https://www.python.org/downloads/](https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart)https://reactnative.dev/docs/environment-setup?package-manager=npm&guide=quickstart) and create a new project.
 
+b. copy the command in the `create a new project` open and paste it into your command prompt
+<img src="Images/CLI for project.png" align="center" size="100px"/>
 
+c. Once successful, type
+```
+code .
+```
