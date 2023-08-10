@@ -25,7 +25,7 @@ a. Visit [`expo`](https://www.python.org/downloads/](https://reactnative.dev/doc
 
 
 b. copy the command in the `create a new project` open and paste it into your command prompt
-> Please copy the code first, before you accidentally close it okay, you won't get it back unless you delete and recreate a new project 😆
+> Please copy the code first, before you accidentally close it okay, to avoid needing to type it all again 😆
 <img src="Images/CLI for project.png" align="center" size="100px"/>
 
 c. Once successful, in the command prompt, type
