@@ -18,6 +18,10 @@ You will need to install nativewind and it's peer dependency tailwindcss.
 yard add nativewind
 yarn add --dev tailwindcss@3.3.2
 ```
+```
+npm install nativewind
+npm i --dev tailwindcss@3.3.2
+```
 Run `npx tailwindcss init` to create a `tailwind.config.js` file
 
 Add the following in your `tailwind.config.js` file.
@@ -67,5 +71,15 @@ export default function App() {
 -     justifyContent: 'center',
 -   },
 - });
+```
+
+if there are still errors
+Stop the server in the terminal
+```
+ctrl + C
+```
+type
+```
+expo start -c
 ```
 Thats it 🎉
