@@ -26,7 +26,13 @@ a. Visit [`expo`](https://www.python.org/downloads/](https://reactnative.dev/doc
 b. copy the command in the `create a new project` open and paste it into your command prompt
 <img src="Images/CLI for project.png" align="center" size="100px"/>
 
-c. Once successful, type
+c. Once successful, in the command prompt, type
 ```
 code .
+```
+> To open the project in [`VScode`](https://code.visualstudio.com/), the best editor for react native
+
+d. Open the terminal in VScode and type
+```
+expo start
 ```
