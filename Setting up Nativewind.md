@@ -82,4 +82,7 @@ type
 ```
 expo start -c
 ```
+Scan again
+
+
 Thats it 🎉
